@@ -1,0 +1,19 @@
+.footer{
+    background-color: black;
+    color:aliceblue
+}
+.footer__container{
+    padding: 10px 0;
+}
+.footer__list{
+    display: flex;
+    justify-content: space-between;
+}
+.footer__list__item{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.footer__text{
+    color:aliceblue;
+    text-align: center;
+}
